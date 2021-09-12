@@ -1,0 +1,13 @@
+/* You can add global styles to this file, and also import other style files */
+.footerdiv {
+    position: relative;
+    overflow: hidden;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+    height: 20px;
+    min-height: 20px;
+    width: 100%;
+    background-color: darkblue;
+  }
+/* Importing Bootstrap SCSS file. */
+@import '~bootstrap/scss/bootstrap';
